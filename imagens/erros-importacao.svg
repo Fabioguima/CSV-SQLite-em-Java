@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="410" viewBox="0 0 980 410">
+  <rect width="980" height="410" fill="#181818"/>
+  <g fill="#f2f2f2" font-family="Consolas, monospace" font-size="18">
+    <text x="25" y="35">=== Tradições Gaúchas ===</text>
+    <text x="25" y="70">Escolha: 1</text>
+    <text x="25" y="115">Registro 1 importado: 5 atributos preenchidos.</text>
+    <text x="25" y="150" fill="#ff7b72">Erro na linha 9: linha incompleta: todos os campos devem estar preenchidos</text>
+    <text x="25" y="185">Registro 9 importado: 5 atributos preenchidos.</text>
+    <text x="25" y="220" fill="#ff7b72">Erro na linha 11: linha incompleta: esperado id e 4 colunas de dados</text>
+    <text x="25" y="255" fill="#ff7b72">Erro na linha 22: linha incompleta: esperado id e 4 colunas de dados</text>
+    <text x="25" y="290" fill="#ff7b72">Erro na linha 32: linha incompleta: todos os campos devem estar preenchidos</text>
+    <text x="25" y="340">Registro 30 importado: 5 atributos preenchidos.</text>
+    <text x="25" y="385">Importação concluída: 27 registros importados e 4 erros.</text>
+  </g>
+</svg>

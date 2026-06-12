@@ -1,36 +1,34 @@
 package com.example;
 
 public class TradicaoGauchaMapper {
+
     public TradicaoGaucha mapear(String linha) {
         String[] campos = linha.split(";", -1);
-        if (campos.length < 1 || campos.length > 5) {
-            throw new IllegalArgumentException("quantidade de campos inválida");
+
+        if (campos.length != 5) {
+            throw new IllegalArgumentException(
+                    "linha incompleta: esperado id e 4 colunas de dados");
+        }
+
+        for (String campo : campos) {
+            if (campo.trim().isEmpty()) {
+                throw new IllegalArgumentException(
+                        "linha incompleta: todos os campos devem estar preenchidos");
+            }
         }
 
         int id = Integer.parseInt(campos[0].trim());
+        String nome = campos[1].trim();
+        String categoria = campos[2].trim();
+        String cidade = campos[3].trim();
+        int anoOrigem = Integer.parseInt(campos[4].trim());
 
-        switch (campos.length) {
-            case 1:
-                return new TradicaoGaucha(id);
-            case 2:
-                return new TradicaoGaucha(id, texto(campos[1]));
-            case 3:
-                return new TradicaoGaucha(id, texto(campos[1]), texto(campos[2]));
-            case 4:
-                return new TradicaoGaucha(id, texto(campos[1]), texto(campos[2]), texto(campos[3]));
-            default:
-                return new TradicaoGaucha(id, texto(campos[1]), texto(campos[2]),
-                        texto(campos[3]), inteiro(campos[4]));
-        }
-    }
-
-    private String texto(String valor) {
-        String texto = valor.trim();
-        return texto.isEmpty() ? null : texto;
-    }
-
-    private Integer inteiro(String valor) {
-        String texto = valor.trim();
-        return texto.isEmpty() ? null : Integer.parseInt(texto);
+        return new TradicaoGaucha(
+                id,
+                nome,
+                categoria,
+                cidade,
+                anoOrigem
+        );
     }
 }

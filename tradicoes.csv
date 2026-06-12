@@ -6,9 +6,9 @@ id;nome;categoria;cidade;ano_origem
 5;Galeto ao Primo Canto;Culinária;Caxias do Sul;1930
 6;Semana Farroupilha;Evento;Porto Alegre;1947
 7;Acampamento Farroupilha;Evento;Porto Alegre;1981
-8;Expointer;Evento;Esteio;1901
+8;;Evento;Esteio;1901
 9;Festa da Uva;Evento;Caxias do Sul;1931
-10;Rodeio Crioulo;Evento;Vacaria;1958
+10;Rodeio Crioulo;1958
 11;Chula;Dança;Vacaria;1800
 12;Vaneira;Dança;Porto Alegre;1950
 13;Bugio;Dança;São Francisco de Paula;1920
@@ -19,7 +19,7 @@ id;nome;categoria;cidade;ano_origem
 18;Música Nativista;Música;Porto Alegre;1970
 19;Trova Gaúcha;Música;São Borja;1900
 20;Gaita Ponto;Música;Caxias do Sul;1900
-21;Pilcha Gaúcha;Vestuário;Porto Alegre;1800
+Pilcha Gaúcha;Vestuário;Porto Alegre;1800
 22;Bombacha;Vestuário;Uruguaiana;1865
 23;Lenço Gaúcho;Vestuário;Bagé;1800
 24;Guaiaca;Vestuário;Santana do Livramento;1800
@@ -29,3 +29,4 @@ id;nome;categoria;cidade;ano_origem
 28;Gineteada;Esporte;Alegrete;1800
 29;Jogo do Osso;Esporte;Bagé;1800
 30;Tiro de Laço;Esporte;Esteio;1950
+;;;;
