@@ -1,0 +1,3 @@
+Java JDK 11 ou superior
+Apache Maven 3.8 ou superior
+SQLite JDBC 3.36.0.3 (baixado automaticamente pelo Maven)

@@ -1,0 +1,18 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Banco SQLite criado durante a execução
+tradicoes.db
+tradicoes.db-journal
+
+# Configurações das IDEs
+.idea/
+*.iml
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs gerados durante testes locais
+*.log

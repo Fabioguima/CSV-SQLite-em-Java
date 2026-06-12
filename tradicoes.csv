@@ -1,0 +1,31 @@
+id;nome;categoria;cidade;ano_origem
+1;Chimarrão;Culinária;Porto Alegre;1600
+2;Churrasco Gaúcho;Culinária;Bagé;1700
+3;Arroz de Carreteiro;Culinária;Pelotas;1800
+4;Cuca Gaúcha;Culinária;Santa Cruz do Sul;1850
+5;Galeto ao Primo Canto;Culinária;Caxias do Sul;1930
+6;Semana Farroupilha;Evento;Porto Alegre;1947
+7;Acampamento Farroupilha;Evento;Porto Alegre;1981
+8;Expointer;Evento;Esteio;1901
+9;Festa da Uva;Evento;Caxias do Sul;1931
+10;Rodeio Crioulo;Evento;Vacaria;1958
+11;Chula;Dança;Vacaria;1800
+12;Vaneira;Dança;Porto Alegre;1950
+13;Bugio;Dança;São Francisco de Paula;1920
+14;Pezinho;Dança;Porto Alegre;1800
+15;Chimarrita;Dança;Pelotas;1800
+16;Milonga;Música;Bagé;1870
+17;Chamamé;Música;Uruguaiana;1940
+18;Música Nativista;Música;Porto Alegre;1970
+19;Trova Gaúcha;Música;São Borja;1900
+20;Gaita Ponto;Música;Caxias do Sul;1900
+21;Pilcha Gaúcha;Vestuário;Porto Alegre;1800
+22;Bombacha;Vestuário;Uruguaiana;1865
+23;Lenço Gaúcho;Vestuário;Bagé;1800
+24;Guaiaca;Vestuário;Santana do Livramento;1800
+25;Bota Gaúcha;Vestuário;Novo Hamburgo;1850
+26;Laço Comprido;Esporte;Vacaria;1900
+27;Bocha Campeira;Esporte;Caxias do Sul;1900
+28;Gineteada;Esporte;Alegrete;1800
+29;Jogo do Osso;Esporte;Bagé;1800
+30;Tiro de Laço;Esporte;Esteio;1950

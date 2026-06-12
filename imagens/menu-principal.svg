@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="220" viewBox="0 0 620 220">
+  <rect width="620" height="220" fill="#181818"/>
+  <g fill="#f2f2f2" font-family="Consolas, monospace" font-size="20">
+    <text x="25" y="35">=== Tradições Gaúchas ===</text>
+    <text x="25" y="68">1. Importar arquivo CSV</text>
+    <text x="25" y="101">2. Listar por nome</text>
+    <text x="25" y="134">3. Listar por categoria</text>
+    <text x="25" y="167">0. Sair</text>
+    <text x="25" y="200">Escolha:</text>
+  </g>
+</svg>

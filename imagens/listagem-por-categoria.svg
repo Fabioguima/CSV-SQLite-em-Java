@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+  <rect width="1100" height="430" fill="#181818"/>
+  <g fill="#f2f2f2" font-family="Consolas, monospace" font-size="17">
+    <text x="22" y="32">=== Tradições Gaúchas ===</text>
+    <text x="22" y="62">Escolha: 3</text>
+    <text x="22" y="110">ID  | NOME                         | CATEGORIA      | CIDADE                 | ANO</text>
+    <text x="22" y="145">3   | Arroz de Carreteiro          | Culinária      | Pelotas                | 1800</text>
+    <text x="22" y="180">1   | Chimarrão                     | Culinária      | Porto Alegre           | 1600</text>
+    <text x="22" y="215">2   | Churrasco Gaúcho              | Culinária      | Bagé                   | 1700</text>
+    <text x="22" y="250">4   | Cuca Gaúcha                   | Culinária      | Santa Cruz do Sul      | 1850</text>
+    <text x="22" y="285">5   | Galeto ao Primo Canto        | Culinária      | Caxias do Sul          | 1930</text>
+    <text x="22" y="320">13  | Bugio                         | Dança          | São Francisco de Paula | 1920</text>
+    <text x="22" y="355">15  | Chimarrita                    | Dança          | Pelotas                | 1800</text>
+    <text x="22" y="405">Total listado: 30</text>
+  </g>
+</svg>

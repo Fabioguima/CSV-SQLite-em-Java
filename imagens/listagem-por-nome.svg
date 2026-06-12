@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+  <rect width="1100" height="430" fill="#181818"/>
+  <g fill="#f2f2f2" font-family="Consolas, monospace" font-size="17">
+    <text x="22" y="32">=== Tradições Gaúchas ===</text>
+    <text x="22" y="62">Escolha: 2</text>
+    <text x="22" y="110">ID  | NOME                         | CATEGORIA      | CIDADE                 | ANO</text>
+    <text x="22" y="145">7   | Acampamento Farroupilha      | Evento         | Porto Alegre           | 1981</text>
+    <text x="22" y="180">3   | Arroz de Carreteiro          | Culinária      | Pelotas                | 1800</text>
+    <text x="22" y="215">27  | Bocha Campeira               | Esporte        | Caxias do Sul          | 1900</text>
+    <text x="22" y="250">22  | Bombacha                      | Vestuário      | Uruguaiana             | 1865</text>
+    <text x="22" y="285">25  | Bota Gaúcha                   | Vestuário      | Novo Hamburgo          | 1850</text>
+    <text x="22" y="320">13  | Bugio                         | Dança          | São Francisco de Paula | 1920</text>
+    <text x="22" y="355">17  | Chamamé                       | Música         | Uruguaiana             | 1940</text>
+    <text x="22" y="405">Total listado: 30</text>
+  </g>
+</svg>
